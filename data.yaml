@@ -1,0 +1,9 @@
+path: C:/Users/Admin/ParkVision_AI/yolo_dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+names:
+  0: space-empty
+  1: space-occupied
