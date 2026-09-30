@@ -1,6 +1,6 @@
 # IADAI201-2505467--Sohapatel
 For your GitHub repository description, use:  **AI-powered parking space detection and occupancy analysis using YOLO and Streamlit.**
-# 🅿️ ParkVision AI
+#  ParkVision AI
 
 ### AI-Powered Parking Space Detection and Occupancy Analysis
 
@@ -10,7 +10,7 @@ The system provides a visual parking analysis along with the total number of det
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of ParkVision AI is to develop an intelligent parking analysis system that can automatically detect parking spaces from images and determine their occupancy status.
 
@@ -18,7 +18,7 @@ The system aims to reduce the need for manual parking-space monitoring and provi
 
 ---
 
-## 🚗 How ParkVision AI Works
+##  How ParkVision AI Works
 
 The system follows these main steps:
 
@@ -35,21 +35,21 @@ The system follows these main steps:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-* 🅿️ Parking-space detection
-* 🟢 Available-space identification
-* 🔴 Occupied-space identification
-* 📊 Parking analytics
-* 📈 Availability statistics
-* 🗺️ Parking map visualization
-* 🖼️ Image upload and AI analysis
-* 🤖 YOLO-based computer vision
-* 🌐 Interactive Streamlit interface
+*  Parking-space detection
+*  Available-space identification
+*  Occupied-space identification
+*  Parking analytics
+*  Availability statistics
+*  Parking map visualization
+*  Image upload and AI analysis
+*  YOLO-based computer vision
+*  Interactive Streamlit interface
 
 ---
 
-## 🧠 Artificial Intelligence Model
+##  Artificial Intelligence Model
 
 ParkVision AI uses a **YOLO object-detection model** trained specifically for parking-space detection.
 
@@ -68,7 +68,7 @@ best.pt
 
 ---
 
-## 📚 Dataset
+##  Dataset
 
 The project uses the **PKLot parking dataset**, which contains images of parking areas used for parking-space detection and occupancy analysis.
 
@@ -87,8 +87,7 @@ The complete image dataset is not included in this repository because of its lar
 
 ---
 
-## 🛠️ Technologies Used
-
+##  Technologies Used
 * **Python**
 * **YOLO**
 * **Ultralytics**
@@ -100,7 +99,7 @@ The complete image dataset is not included in this repository because of its lar
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ParkVision_AI/
@@ -135,7 +134,7 @@ Python packages required to run the application.
 
 ---
 
-## 💻 Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -171,7 +170,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Application
+##  Running the Application
 
 Start the Streamlit application using:
 
@@ -185,7 +184,7 @@ Upload a parking-lot image and ParkVision AI will analyse the image and display 
 
 ---
 
-## 📊 Output
+##  Output
 
 The application provides:
 
@@ -205,7 +204,7 @@ The detected spaces are displayed using:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The application was tested using parking-lot images that were not directly used during the development process.
 
@@ -220,7 +219,7 @@ Testing focused on:
 
 ---
 
-## 🔬 Research and Development
+##  Research and Development
 
 The development process involved:
 
@@ -235,7 +234,7 @@ The development process involved:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Possible future improvements include:
 
@@ -249,7 +248,7 @@ Possible future improvements include:
 
 ---
 
-## 👩‍💻 Project
+##  Project
 
 **Project Name:** ParkVision AI
 **Course:** IB Career-related Programme – Artificial Intelligence
@@ -258,14 +257,14 @@ Possible future improvements include:
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
-**Status:** Completed ✅
+**Status:** Completed 
 
 ParkVision AI currently provides an interactive AI-powered system for detecting and analysing parking-space occupancy from parking-lot images.
 
 ---
 
-## 📄 License
+##  License
 
 This project was developed as an academic project for educational purposes.
